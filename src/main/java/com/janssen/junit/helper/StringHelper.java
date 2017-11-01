@@ -1,3 +1,5 @@
+package com.janssen.junit.helper;
+
 public class StringHelper {
 
     public String truncateAInFirst2Positions(String str) {
